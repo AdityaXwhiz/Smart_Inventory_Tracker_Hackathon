@@ -13,6 +13,7 @@ const sidebarItems = [
   { name: 'Add Items', href: '/dashboard/items', icon: Plus },
   { name: 'Most Selling Stock', href: '/dashboard/most-selling', icon: TrendingUp },
   { name: 'Future Predictions', href: '/dashboard/predictions', icon: LineChart },
+  { name: 'Stock Alerts', href: '/dashboard/alerts', icon : Package},
   { name: 'Analytics', href: '/dashboard/analytics', icon: ChartPie },
 ]
 
