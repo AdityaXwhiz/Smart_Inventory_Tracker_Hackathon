@@ -4,11 +4,11 @@ import { Bar, BarChart, CartesianGrid, XAxis, YAxis, Tooltip, ResponsiveContaine
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
 const data = [
-  { name: 'Item A', stock: 120 },
-  { name: 'Item B', stock: 80 },
-  { name: 'Item C', stock: 150 },
-  { name: 'Item D', stock: 90 },
-  { name: 'Item E', stock: 110 },
+  { name: 'Maggie', stock: 120 },
+  { name: 'Milk', stock: 80 },
+  { name: 'Paneer', stock: 150 },
+  { name: 'Olive oil', stock: 90 },
+  { name: 'Chocolate', stock: 110 },
 ]
 
 export default function InventoryChart() {

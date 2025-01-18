@@ -6,9 +6,9 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@
 
 // Mock data for real-time updates
 const initialData = [
-  { id: 1, name: 'Item A', quantity: 100, lastUpdated: new Date().toISOString() },
-  { id: 2, name: 'Item B', quantity: 75, lastUpdated: new Date().toISOString() },
-  { id: 3, name: 'Item C', quantity: 50, lastUpdated: new Date().toISOString() },
+  { id: 1, name: 'Milk', quantity: 100, lastUpdated: new Date().toISOString() },
+  { id: 2, name: 'Maggie', quantity: 75, lastUpdated: new Date().toISOString() },
+  { id: 3, name: 'Olive oil', quantity: 50, lastUpdated: new Date().toISOString() },
 ]
 
 export default function RealtimeUpdates() {
